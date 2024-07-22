@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/kategori_all"
+        android:title="Semua"/>
+    <item
+        android:id="@+id/kategori_alam"
+        android:title="Alam"/>
+    <item
+        android:id="@+id/kategori_sejarah"
+        android:title="Sejarah"/>
+    <item
+        android:id="@+id/kategori_kuliner"
+        android:title="Kuliner"/>
+</menu>
